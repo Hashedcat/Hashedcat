@@ -51,10 +51,12 @@ hobbies: ["Novels", "Cinema","photography"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashedcat&theme=noctis_minimus&show_icons=true" />
   </a>
   
- ![Snake animation](https://github.com/Hashedcat/Hashedcat/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://user-images.githubusercontent.com/117061241/198948561-eb78fcd4-59ed-4d46-8e46-8fc4b82ba8b8.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
   
+ 
+
   
