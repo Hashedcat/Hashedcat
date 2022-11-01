@@ -31,7 +31,7 @@ fields_of_interests:
 currently_learning: ["Docker, Kotlin"]
 hobbies: ["Novels", "Cinema","photography"]
 ```
-------
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -45,7 +45,7 @@ hobbies: ["Novels", "Cinema","photography"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
    </p>
-------
+
 <h2> 📈 &nbsp;My GitHub stats</h2>
 <a href="https://github.com/Hashedcat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashedcat&theme=noctis_minimus&show_icons=true" />
