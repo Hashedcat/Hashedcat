@@ -9,7 +9,7 @@
 <a href="https://twitter.com/i_hashed">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-  <a href="https://discord.gg/">
+  <a href="https://discordapp.com/users/164217311572525056">
   <img height="50" src="https://i.imgur.com/jL4YIdv.png"/>
 </a>
 </p>
