@@ -22,11 +22,9 @@ fields_of_interests:
   [
     "Web Development",
     "Data Science",
-    "Machine Learning",
     "UI/UX",
     "Discord/telegram bots",
-    "DevOps",
-  ]
+   ]
 
 currently_learning: ["Docker, Kotlin"]
 hobbies: ["Novels", "Cinema","photography"]
